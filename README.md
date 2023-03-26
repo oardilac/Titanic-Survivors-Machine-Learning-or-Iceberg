@@ -37,4 +37,4 @@ This project was completed as part of the Kaggle competition "Titanic - Machine 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/example/mit-license).
+This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
